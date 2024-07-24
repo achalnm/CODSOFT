@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+The .csv file was more than 100mb so hence could not upload it to GitHub, however here is the link to the same creditcard.csv file
