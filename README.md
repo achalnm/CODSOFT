@@ -25,7 +25,7 @@ To get started:
 
 1. Clone the repository:
     ```shell
-    git clone https://github.com/your-username/codsoft-data-science-projects.git
+    git clone https://github.com/achal_nm/codsoft-data-science-projects.git
     ```
 2. Navigate to the project directory.
 3. Install required packages using the provided `requirements.txt` file (if available).
